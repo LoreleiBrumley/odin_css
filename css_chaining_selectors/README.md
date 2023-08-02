@@ -1,0 +1,1 @@
+ In this section I will style two images, each with two class names, where one of the class names is shared. The goal here is to chain the selectors for both elements, so that each have a unique style applied, despite using a shared class selector. 
