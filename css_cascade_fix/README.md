@@ -1,0 +1,1 @@
+I will be figuring out what issues are in the CSS file provided, and fix them to strengthen my skills and showcase what I've learned so far!
